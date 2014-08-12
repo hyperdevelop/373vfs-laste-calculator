@@ -1,0 +1,7 @@
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\LasteCalculator.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\LasteCalculator.exe
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\LasteCalculator.pdb
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\LasteCalculator.Properties.Resources.resources
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\LasteCalculator.exe
+E:\VisualStudioProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\LasteCalculator.pdb
