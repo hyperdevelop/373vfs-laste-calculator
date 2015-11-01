@@ -1,3 +1,6 @@
+// LASTE Calculator for wind correction
+// DCS A-10C applicable
+// Coder : Kostas Skondras
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
